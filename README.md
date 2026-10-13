@@ -2,12 +2,12 @@
 This project analyzed simulated data from a bacterial tracking experiment under specific nutrient and stress conditions.
 
 ## Table of Contents
-- [Research Questions 🔎](#question)
+- [Research Questions 🔎](#research-questions)
 - [Dataset 🧫](#dataset)
 - [Methods 💻](#methods)
 - [Results 📊](#results)
 - [Conclusions 🎯](#conclusions)
-- [Usage Instructions 📚](#usage_instructions)
+- [Usage Instructions 📚](#usage-instructions)
 
 ## Research Questions 
 The aim of this project was to quantify the abundance of wild-type and mutant bacterial strains and and investigate how the differences in their abundance vary with momentum. The following research questions were addressed: 
