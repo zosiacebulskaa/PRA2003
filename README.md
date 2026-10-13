@@ -57,6 +57,7 @@ The uncertainty of the asymmetry was also estimated using subsampling. For each 
 
 ### Momentum Asymmetry 
 For each valid bacterial entry across all 10 files, the total momentum was calculated from its three components ($p_x$, $p_y$, $p_z$).  
+
 $$p = \sqrt{p_x^2 + p_y^2 + p_z^2}$$
 
 Momentum values were grouped into bins to create one histogram per strain per ID. A momentum range of 0–60 was used, which covered 99.99% of momenta values. A bin width of 1 was used for *E. coli* which had a substantially higher abundance than all the other species, for which a bin width of 2 was used. For each file, abundance asymmetry was calculated by subtracting mutant counts from wild-type counts in each corresponding momentum bin. The resulting differences were normalized by the number of valid events in that file. The mean normalized asymmetry and sample standard deviation were then calculated across the 10 subsamples for each momentum bin. Finally, an exponential function was fitted to the mean asymmetry as a function of bacterial momentum. 
