@@ -148,9 +148,9 @@ $$A(p) = A_0 e^{-kp}$$
 | *M. tuberculosis* | 1.0σ |
 | *S. enterica* | 0.5σ |
 
-Using a threshold of 3σ, a statistically significant abundance asymmetry between wild type and mutant was concluded for *E. coli*, *P. aeruginosa*, and *S. pneumoniae*. 
+Using a threshold of 3σ, a statistically significant abundance asymmetry between wild type and mutant was concluded for *E. coli* (0.0323	± 0.0043), *P. aeruginosa* (0.0239 ± 0.0023), and *S. pneumoniae* (0.00491 ± 0.00055).
 
-When looking at the asymmetry as a function of bacterial momentum, the only statistically significant difference between wild type and mutant was found for *P. aeruginosa* at momentum interval $0 \leq p < 2 \times 10^{-20}\ \mathrm{kg\,m\,s^{-1}}$ ($\sigma = 3.6$).
+When looking at the asymmetry as a function of bacterial momentum, the only statistically significant difference ($\sigma = 3.6$) between wild type and mutant was found for *P. aeruginosa* at momentum interval $0 \leq p < 2 \times 10^{-20}\ \mathrm{kg\,m\,s^{-1}}$ (0.0064 ± 0.0018).
 
 ## Usage Instructions 
 ### Requirements 
